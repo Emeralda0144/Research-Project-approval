@@ -180,8 +180,8 @@ mandatory
 
 In a section called "Existing Solutions":
 
--   List any similar products or solutions that currently exist.
--   For each item in the list, explain similarities and differences
+* List any similar products or solutions that currently exist.
+* For each item in the list, explain similarities and differences
 
 If you intend to reimplement a proven solution, then describe the various proven solutions and why you chose to reimplement based on a particular specification.
 
