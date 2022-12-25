@@ -38,7 +38,7 @@ Research & project approval (Part 1-3)
 
 -   Week 1: Project proposal (staff review, approval required)
 -   Week 2: MVP (Minimum Viable Product) proposal (staff review, approval required)
--   **Week 3: [Trello](https://alx-intranet.hbtn.io/rltoken/nHPXY_uuCJ8h-diK1DoyJw "Trello") board (staff review, approval required)**
+-   **Week 3: [Trello](https://trello.com/) board (staff review, approval required)**
 
 Build Portfolio Project
 
@@ -51,9 +51,9 @@ Build Portfolio Project
 What's the Trello board?
 ------------------------
 
-[Trello](https://alx-intranet.hbtn.io/rltoken/nHPXY_uuCJ8h-diK1DoyJw "Trello") is a free project management software that uses a [kanban board](https://alx-intranet.hbtn.io/rltoken/WBoV3Vg98rcrkt2AIa524w "kanban board") to visually track the implementation of a feature set from "to-do" to "done". Trello makes it easy to assign tasks, collaborate and collect notes in a central location.
+[Trello](https://trello.com/) is a free project management software that uses a [kanban board](https://en.wikipedia.org/wiki/Kanban_board) to visually track the implementation of a feature set from "to-do" to "done". Trello makes it easy to assign tasks, collaborate and collect notes in a central location.
 
-There are other project management tools, such as [Asana](https://alx-intranet.hbtn.io/rltoken/P1burLc5BzjO5Ov31wNVNw "Asana"), [Airtable](https://alx-intranet.hbtn.io/rltoken/Q8gCI02YehO3Z_vWdDvllg "Airtable"), and [Jira](https://alx-intranet.hbtn.io/rltoken/Vx-2zvCZYFhArPb1v4X7aQ "Jira"). Trello has been selected for ease of use and ability to visualize progress.
+There are other project management tools, such as [Asana](https://asana.com/ko), [Airtable](https://www.airtable.com/), and [Jira](https://www.atlassian.com/software/jira). Trello has been selected for ease of use and ability to visualize progress.
 
 Some things to think about
 --------------------------
