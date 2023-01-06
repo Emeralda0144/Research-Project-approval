@@ -40,39 +40,23 @@ Default Project
 
 If you do not have an idea, and do not submit a proposal or do not gain approval for your proposed projects, you'll be expected to complete the 2D Game: **The Maze** - concept page available on top of this project.
 
-More Info
----------
-
+## More Info
 ### Manual QA Review
 
-Manual QA Reviews will be done by a staff member.
 
-Tasks
------
+## Tasks
 
 ### 0\. Share your MVP specification!
-
-mandatory
 
 Share a link here to a **NEW** Google Document where each of the following tasks are addressed.
 
 #### Add URLs here:
 
-Save
-
- Done? Help
-
 ### 1\. Rename the document
-
-mandatory
 
 Rename the document to be the Project's name and append " MVP specification"
 
- Done? Help
-
 ### 2\. Architecture
-
-mandatory
 
 In a section named "Architecture":
 
@@ -80,15 +64,12 @@ In a section named "Architecture":
 
 Here are some resources to learn more:
 
--   [Web Architecture 101](https://alx-intranet.hbtn.io/rltoken/-jOY1yTSoVvysinRHQPrwQ "Web Architecture 101")
--   [List of tools to create architecture diagrams](https://alx-intranet.hbtn.io/rltoken/JaB-KBTUTxWZ_Uvp27MLQQ "List of tools to create architecture diagrams")
--   [Web Application Architecture](https://alx-intranet.hbtn.io/rltoken/TmbJuwX1d6XsSd2Ppr6pSg "Web Application Architecture")
+-   [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
+-   [List of tools to create architecture diagrams](https://geekflare.com/create-application-architecture-diagram/)
+-   [Web Application Architecture](https://existek.com/blog/web-application-architecture/)
 
- Done? Help
-
+ 
 ### 3\. APIs
-
-mandatory
 
 In a section called "APIs and Methods":
 
@@ -126,62 +107,44 @@ In a section called "APIs and Methods":
 
     ```
 
--   List and describe any 3rd party APIs that you will be using
+* List and describe any 3rd party APIs that you will be using
 
-    ```
-    e.g. https://developer.twitter.com/en/docs/tweets/post-and-engage/overview
-    POST statuses/update
-    POST statuses/destroy/:id
-    GET statuses/show/:id
-    GET statuses/oembed
-    GET statuses/lookup
-
-    ```
-
+```
+e.g. https://developer.twitter.com/en/docs/tweets/post-and-engage/overview
+POST statuses/update
+POST statuses/destroy/:id
+GET statuses/show/:id
+GET statuses/oembed
+GET statuses/lookup
+```
 If there are no APIs used or provided, skip this section.
 
- Done? Help
-
+ 
 ### 4\. Data Modelling
-
-mandatory
 
 In a section named "Data Model":
 
 -   Create a data model diagram to clarify how data will be stored
 
-Tools: [SqlDBM](https://alx-intranet.hbtn.io/rltoken/6NDhFhDLlvGnO5IQPjNxsA "SqlDBM")
+Tools: [SqlDBM](https://sqldbm.com/Home/)
 
 Example: ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/83eed8d2d8a6b390f16f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220607T080535Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=405cd27af1976d67f155827a2127b8579fecb56b3ac8619d294a344c5c3f0ee3)
 
- Done? Help
-
 ### 5\. User Stories
 
-mandatory
-
-First, research what [user stories](https://alx-intranet.hbtn.io/rltoken/MP_p24nJnvQxErkP0IpZtA "user stories") are, and how to write them. Also note [some pitfalls](https://alx-intranet.hbtn.io/rltoken/FLr9JQQFgm0zz3ZEfqKCwA "some pitfalls") of creating user stories that are too general.
+First, research what [user stories](https://en.wikipedia.org/wiki/User_story) are, and how to write them. Also note [some pitfalls](https://blog.prototypr.io/stop-it-with-as-a-user-5feb9b38d920) of creating user stories that are too general.
 
 In the "User Stories" section:
 
 -   Define 3-5 detailed user stories that will be satisfied when your MVP is complete.
 
- Done? Help
-
 ### 6\. Mockups
-
-mandatory
 
 ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/f7f084b4bf401c4a94fd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220607T080535Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2f9859c19a882fd6ba053cf6fa91494154ab243e53df93eaafcf88ec28a5bdef)
 
-If there is any visual interface to your Portfolio Project, this section is required. If your project lives on the commandline, or in script, then do not include this section. Use a prototyping tool, like [Balsamiq](https://alx-intranet.hbtn.io/rltoken/gr0KAmc8Pgs7IMawbJtlIQ "Balsamiq"), to draft your user-facing visual interfaces.
+If there is any visual interface to your Portfolio Project, this section is required. If your project lives on the commandline, or in script, then do not include this section. Use a prototyping tool, like [Balsamiq](https://balsamiq.com/), to draft your user-facing visual interfaces.
 
 In a section called "Mockups":
 
 -   Include a mockup of each view that will need to be created for your MVP
-
- Done? Help
-
-Ready for a manual review
-
 Copyright © 2022 ALX, All rights reserved.
