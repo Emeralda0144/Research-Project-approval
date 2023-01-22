@@ -1,4 +1,5 @@
 Research & Project approval (Part 2)
+
 `Group project`    `Portfolio project`    `Presentation`
 
 ### Concepts
