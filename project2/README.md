@@ -1,6 +1,5 @@
-
 Research & Project approval (Part 2)
-====================================
+`Group project`    `Portfolio project`    `Presentation`
 
 ### Concepts
 
@@ -9,19 +8,17 @@ Research & Project approval (Part 2)
 -   [Maze project](https://alx-intranet.hbtn.io/concepts/133)
 -   [3 Ways to Make a Portfolio Project Great](https://alx-intranet.hbtn.io/concepts/135)
 -   [Portfolio Project Overview](https://alx-intranet.hbtn.io/concepts/137)
--   [Research & Project Approval Overview](https://alx-intranet.hbtn.io/concepts/138)
+-   [Research & Project Approval Overview](https://intranet.alxswe.com/concepts/138)
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/7c257c6a8cd537400e72.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220607T080535Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=60347ee00acc5199bc95df9d8fb379ebe7bc8fd02701af7607a5e7fa3c6c20fa)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/7c257c6a8cd537400e72.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230122T062339Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=6033c606caa65abf629b70b0be6e00324f6a4021e620c8059376df377f883bcb)
 
-What's the Minimum Viable Product (MVP)?
-----------------------------------------
+#### What's the Minimum Viable Product (MVP)?
 
 > "A minimum viable product has just enough core features to effectively deploy the product, and no more." -- Wikipedia
 
 Now that the team and the challenge are well defined, it is time to create a specification for the first version of your software. This is important because it is an opportunity to get the scope of the project right. If a project is too small in scope, it does not serve as an opportunity to expand your technical understanding, or present as impressive. When a project is too large in scope, the project will likely be incomplete by the end of the 2 weeks.
 
-Some things to think about
---------------------------
+### Some things to think about
 
 #### User Experience
 
@@ -50,7 +47,8 @@ If you do not have an idea, and do not submit a proposal or do not gain approval
 
 Share a link here to a **NEW** Google Document where each of the following tasks are addressed.
 
-#### Add URLs here:
+**Add URLs here:**
+
 
 ### 1\. Rename the document
 
@@ -128,7 +126,8 @@ In a section named "Data Model":
 
 Tools: [SqlDBM](https://sqldbm.com/Home/)
 
-Example: ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/83eed8d2d8a6b390f16f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220607T080535Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=405cd27af1976d67f155827a2127b8579fecb56b3ac8619d294a344c5c3f0ee3)
+Example: ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/83eed8d2d8a6b390f16f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230122T062339Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=af5ba78521131edcbccc4026d22c015caaf5b36b8a9554c77afb94caf7a162ed)
+
 
 ### 5\. User Stories
 
@@ -140,11 +139,12 @@ In the "User Stories" section:
 
 ### 6\. Mockups
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/f7f084b4bf401c4a94fd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220607%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220607T080535Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=2f9859c19a882fd6ba053cf6fa91494154ab243e53df93eaafcf88ec28a5bdef)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/9/f7f084b4bf401c4a94fd.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230122T062339Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e8e96724fd60f08fb882199eddfbff3bdc9e6e78d0689e171a9fa6bec8fb7a4a)
 
 If there is any visual interface to your Portfolio Project, this section is required. If your project lives on the commandline, or in script, then do not include this section. Use a prototyping tool, like [Balsamiq](https://balsamiq.com/), to draft your user-facing visual interfaces.
 
 In a section called "Mockups":
 
 -   Include a mockup of each view that will need to be created for your MVP
+
 Copyright © 2022 ALX, All rights reserved.
